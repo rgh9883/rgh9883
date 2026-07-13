@@ -1,4 +1,4 @@
-name: generate languages graph
+name: generate stats graph
 
 on:
   schedule:
@@ -13,15 +13,15 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: fetch languages svg
+      - name: fetch stats svg
         run: |
           mkdir -p dist
-          curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" -o dist/languages.svg
+          curl -sf "https://github-stats-extended.vercel.app/api?username=rgh9883&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark" -o dist/stats.svg
 
       - name: push svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: languages-output
+          target_branch: stats-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

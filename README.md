@@ -61,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
+
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
@@ -68,8 +69,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rgh9883/rgh9883/languages-output/languages.svg" height="220" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rgh9883&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/rgh9883/rgh9883/stats-output/stats.svg" height="220" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rgh9883&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
