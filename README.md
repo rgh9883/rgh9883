@@ -72,7 +72,7 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rgh9883/rgh9883/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" height="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rgh9883/rgh9883/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" height="175">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rgh9883/rgh9883/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rgh9883/rgh9883/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
