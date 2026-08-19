@@ -23,7 +23,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">I'm Rahul Hegde<br><br>- 🔭 I’m working as a Software Engineer @ Liberty Mutual<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I create projects, play games, and watch/play sports</h5>
+<h5 data-importer="text" align="left">I'm Rahul Hegde<br><br>- 🔭 I’m working as a Data Analyst @ Johnson & Johnson<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I create projects, play games, and watch/play sports</h5>
 
 ###
 
